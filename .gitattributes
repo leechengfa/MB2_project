@@ -2,3 +2,4 @@
 * text=auto
 Shiny/data/p224r63_2011.gri filter=lfs diff=lfs merge=lfs -text
 Shiny/raster/tasseled.tif filter=lfs diff=lfs merge=lfs -text
+Shiny/raster/specras.tif filter=lfs diff=lfs merge=lfs -text
