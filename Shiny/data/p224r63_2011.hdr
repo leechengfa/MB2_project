@@ -1,0 +1,14 @@
+ENVI
+description = { B1_sre B2_sre B3_sre B4_sre B5_sre B6_bt B7_sre } 
+samples =  2967 
+lines =  1499 
+bands =  7 
+header offset = 0
+file type = ENVI Standard
+data type =  4 
+interleave =  BIL 
+sensor type = 
+byte order =  0 
+map info = {projection, 1, 1, 579765 ,  -477735 ,  30 ,  30 }
+coordinate system string = {PROJCS["WGS_1984_UTM_Zone_22N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-51],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1]]}
+z plot range = { 0 0 0 0 0 295.1 0 ,  1 0.2563655 0.2591587 0.5592193 0.4894984 305.2 0.3692634 }
